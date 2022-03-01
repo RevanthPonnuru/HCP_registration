@@ -1,31 +1,13 @@
 {
-  "posts": [
+  "hcpUserdata": [
     {
-      "id": 1,
-      "title": "Post 1"
-    },
-    {
-      "id": 2,
-      "title": "Post 2"
-    },
-    {
-      "id": 3,
-      "title": "Post 3"
+      "saluatations": "Mr",
+      "firstname": "Revanth",
+      "lastname" : "Ponnuru",
+      "mobilenumber" : "9999923456",
+      "liscencenumber": "656565"
+      
     }
-  ],
-  "comments": [
-    {
-      "id": 1,
-      "body": "some comment",
-      "postId": 1
-    },
-    {
-      "id": 2,
-      "body": "some comment",
-      "postId": 1
-    }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+    ]
+  
 }
